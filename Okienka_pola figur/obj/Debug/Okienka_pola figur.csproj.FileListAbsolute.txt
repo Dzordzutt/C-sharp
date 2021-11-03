@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\bin\Debug\Okienka_pola figur.exe.config
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\bin\Debug\Okienka_pola figur.exe
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\bin\Debug\Okienka_pola figur.pdb
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola figur.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola_figur.Form1.resources
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola_figur.Properties.Resources.resources
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola figur.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola figur.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola figur.exe
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola figur.pdb
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola_figur.Form2.resources
+C:\Users\Dell\source\repos\Okienka_pola figur\Okienka_pola figur\obj\Debug\Okienka_pola_figur.Form3.resources
